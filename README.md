@@ -52,9 +52,9 @@ This project is built to:
 
 If you are a poet, artist, or Persian culture enthusiast and want to collaborate, feel free to reach out:
 
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- Email: yourname@example.com
-- Instagram (optional): `@echoes.of.persia`
+- GitHub: [DigitalDivanNFT](https://github.com/maryasad/DigitalDivanNFT)
+- Email: ....
+
 
 ---
 
